@@ -1,2 +1,2 @@
 # Scala
-Scala studies.
+Scala learning process.
